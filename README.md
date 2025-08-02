@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 <center><h1> 💫 Hello there! I'm <b></b>Maheshwari D</b></h1></center>
 </p>
 <p align="center">
