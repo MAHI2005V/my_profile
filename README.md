@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://https://i.pinimg.com/736x/62/12/1d/62121d1ee274c2d938f4d5fd94a68b7a.jpg/?lines=Hey+There!+👋;I'm+Maheshwari+D.;Data+Enthusiast+|+Web+Dev+Explorer;Welcome+to+my+GitHub+Space!&center=true&width=440&height=45&color=4AD991&vCenter=true&size=20" />
-</p>
-
+</p> 
 ---
 
 ## 💫 About Me
