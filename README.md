@@ -1,12 +1,11 @@
+## 💫 Hello there! I'm **Maheshwari D** 
 <p align="center">
   <img src="https://i.pinimg.com/736x/62/12/1d/62121d1ee274c2d938f4d5fd94a68b7a.jpg" width="500" alt="GitHub Banner" />
 </p>
 
----
+--- 
 
-## 💫 About Me
-
-🎓 I'm **Maheshwari D**, a **B.Sc. Computer Science with Data Science** graduate, passionate about making data meaningful.
+## 🎓 **B.Sc. Computer Science with Data Science** graduate, passionate about making data meaningful.
 
 > *“Turning data into decisions — one line of code at a time.”* 🚀
 
