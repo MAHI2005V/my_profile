@@ -1,4 +1,5 @@
-<p align="center"> ## 💫 Hello there! I'm **Maheshwari D** 
+<p align="center">
+  ## 💫 Hello there! I'm **Maheshwari D** <br>
   <img src="https://i.pinimg.com/736x/62/12/1d/62121d1ee274c2d938f4d5fd94a68b7a.jpg" width="500" alt="GitHub Banner" />
 </p>
 
